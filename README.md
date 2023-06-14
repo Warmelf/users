@@ -1,3 +1,8 @@
+# Description
+
+React app. There is a fetch request to fake users, a search by name and mail, the ability to add and remove users to the list of invited users, 
+loading a preloader in case of a long response from the server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
